@@ -51,15 +51,6 @@ By using the **Curtainator-9000**, she can set the time for her curtains to open
 
 ---
 
-## Prospects for Improvement
-
-- **I2C LCD Adapter**: Simplifies wiring and improves the aesthetics by reducing the number of wires required for the display.
-- **Chassis (Enclosure)**: A proper casing to conceal wiring, protect components, and enhance the overall appearance of the Curtainator.
-- **Wheel Mechanism**: Complete the design by adding wheels for better movement and curtain handling.
-- **Multi-Device Network**: Integration of multiple Curtainator devices across the home, allowing for coordinated curtain control between different rooms or windows.
-
----
-
 ## Current Limitations
 
 ### LCD Display
