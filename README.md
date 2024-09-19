@@ -36,17 +36,17 @@ By using the **Curtainator-9000**, she can set the time for her curtains to open
 
 ## Conceptual Architecture
 
-Graphical showcase of our device's architecture:
+### Graphical showcase of our device's architecture:
 ![image](https://github.com/user-attachments/assets/a51b31e9-73b3-4cc7-beaa-8b4e9466fe79)
 
 ---
 
 ## Phone Application MIT App Inventor
 
-Phone application first look:
+### Phone application first look:
 ![image](https://github.com/user-attachments/assets/81bc32df-45c9-4ef3-98d9-bb8308ae7e91)
 
-Code behind the application:
+### Code behind the application:
 ![image](https://github.com/user-attachments/assets/1863d3ab-50ca-4951-9df2-177bab044c62)
 
 ---
