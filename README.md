@@ -93,6 +93,6 @@ By using the **Curtainator-9000**, she can set the time for her curtains to open
 
 ---
 
-## How to Improve This Project
+## Video Showcase
 
 Video showcasing the use of our Android application working with the device: https://youtu.be/Pw0lTUnGxVo
